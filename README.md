@@ -1,0 +1,1 @@
+# Task Automation Project\n\nSimple automation project with image moving, email extraction, and webpage title scraping.\n
